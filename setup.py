@@ -13,7 +13,7 @@ setuptools.setup(
     download_url = 'https://github.com/dewloosh/spdata/archive/refs/tags/0_0_1.zip',                     
     description="A collection of tools to handle sparse data",
     long_description=long_description,   
-    long_description_content_type="markdown",
+    long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),   
     classifiers=[
         'Development Status :: 3 - Alpha',     
